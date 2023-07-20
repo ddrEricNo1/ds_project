@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="022067e2-7f12-4598-85ef-7889e0962fcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/data/laptop.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/mouse.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/water.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/Main/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/Main/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/Main/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/Main/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/Main/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/UI/BidderUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/UI/BidderUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/UI/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/UI/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/UI/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/UI/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/UI/testPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/role/remoteClient/RemoteClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/role/remoteClient/RemoteClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/role/remoteClient/RemoteClientImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/role/remoteClient/RemoteClientImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/role/remoteServer/RemoteServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/role/remoteServer/RemoteServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/utils/AuctionTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/utils/AuctionTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/utils/CountDownTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/utils/CountDownTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/utils/Encoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/utils/Encoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ds/utils/GetConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ds/utils/GetConnection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SpxrgC3PQ3L40o0c0vT44f3CRd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="022067e2-7f12-4598-85ef-7889e0962fcb" name="Changes" comment="" />
+      <created>1689857526663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689857526663</updated>
+      <workItem from="1689857528624" duration="845000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
